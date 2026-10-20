@@ -1,6 +1,6 @@
 Name: Ayush Kashyap
 
-1. Why I Want to Join WhiteHats
+1. Why I Want to Join WhiteHats?
 
 I want to join WhiteHats because I am interested in exploring the intersection of hardware and cybersecurity. I want to understand how circuits, semiconductor chips, and embedded systems can be secured against cyberattacks. I hope to develop practical skills in hardware security, ethical hacking, and IoT security.
 
