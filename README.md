@@ -10,7 +10,7 @@ Reports described a cyberattack affecting internet-connected refrigeration syste
 Why It Matters?
 This incident highlights that cybersecurity is not limited to software. Connected hardware, embedded systems, and IoT devices also need strong security measures to prevent unauthorized access.
 
-Sources
+Sources:-
 Reuters: https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12/
 BBC News: https://www.bbc.com/news/articles/crq5nzxv9q4yo
 Business Today: https://www.facebook.com/BusinessToday/posts/french-supermarket-fridge-hack-raises-alarm-why-indias-cold-chains-should-be-wor/1598749455632760/
